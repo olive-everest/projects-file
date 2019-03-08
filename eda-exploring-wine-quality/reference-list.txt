@@ -1,0 +1,12 @@
+References:
+
+
+https://medium.com/@jeromevonk/red-wine-quality-exploration-ea88e6b0e3c5
+
+https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-benefits-and-limits-of-decision-models
+
+http://data.princeton.edu/R/linearModels.html
+
+https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8
+
+

@@ -1,0 +1,8 @@
+Failed to print as pdf due to error
+
+.ipynb file added if required
+
+500 : Internal Server Error
+The error was:
+nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+
